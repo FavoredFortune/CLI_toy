@@ -33,3 +33,4 @@
 
 ## Resources
 - reminder on image sizing in readmes: https://www.xaprb.com/blog/how-to-style-images-with-markdown/
+- gitignore generated on gitignore.io
